@@ -1,6 +1,7 @@
 # Accounting RAG Project
 
 This project is a simple Retrieval-Augmented Generation system for accounting questions.
+This project answers accounting questions using sentence embeddings and FAISS similarity search.
 
 ## Features
 - Reads accounting text files
@@ -13,5 +14,6 @@ This project is a simple Retrieval-Augmented Generation system for accounting qu
 pip install -r requirements.txt
 
 python main.py
+
 
 Note: Initial model loading may display library warnings; this does not affect functionality.
