@@ -1,0 +1,6 @@
+Profit and Loss Statement:
+
+A profit and loss statement shows revenues and expenses.
+
+Formula:
+Profit = Revenue - Expenses

@@ -1,0 +1,6 @@
+Balance Sheet:
+
+A balance sheet shows assets, liabilities and equity.
+
+Formula:
+Assets = Liabilities + Equity

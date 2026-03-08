@@ -1,0 +1,3 @@
+Invoice:
+
+An invoice is a bill sent to customer showing price and quantity.
